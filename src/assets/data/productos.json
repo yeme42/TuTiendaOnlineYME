@@ -1,0 +1,66 @@
+[
+    {
+    "id": "1",
+    "nombre":"audifonos",
+    "descripcion":"blanco",
+    "categoria":["microgfono","tegnologia"],
+    "imageUrl":[
+        "../../assets/img/products/technology/1.jpg",
+        "../../assets/img/products/technology/2.jpg",
+        "../../assets/img/products/technology/3.jpg",
+        "../../assets/img/products/technology/4.jpg"
+    ],
+    "precio_venta": 225,
+    "precio_regular":345,
+    "created_at":"2022-03-14T16:51:07.214x",
+    "slug":"tipo-audifonos"
+    },
+    {
+        "id": "2",
+        "nombre":"Microfono",
+        "descripcion":"azul",
+        "categoria":["microgfono","tegnologia"],
+        "imageUrl":[
+            "../../assets/img/products/technology/2.jpg",
+            "../../assets/img/products/technology/2.jpg",
+            "../../assets/img/products/technology/3.jpg",
+            "../../assets/img/products/technology/4.jpg"
+        ],
+        "precio_venta": 225,
+        "precio_regular":200,
+        "created_at":"2022-03-14T16:51:07.214x",
+        "slug":"microfono"
+    },
+    {
+        "id": "3",
+        "nombre":"Computadora",
+        "descripcion":"plateada",
+        "categoria":["computadora","tegnologia"],
+        "imageUrl":[
+            "../../assets/img/products/technology/3.jpg",
+            "../../assets/img/products/technology/2.jpg",
+            "../../assets/img/products/technology/3.jpg",
+            "../../assets/img/products/technology/4.jpg"
+        ],
+        "precio_venta": 680,
+        "precio_regular":599,
+        "created_at":"2022-03-14T16:51:07.214x",
+        "slug":"computadora"
+    },
+    {
+        "id": "4",
+        "nombre":"Parlante",
+        "descripcion":"negro",
+        "categoria":["sonido","tegnologia"],
+        "imageUrl":[
+            "../../assets/img/products/technology/4.jpg",
+            "../../assets/img/products/technology/2.jpg",
+            "../../assets/img/products/technology/3.jpg",
+            "../../assets/img/products/technology/4.jpg"
+        ],
+        "precio_venta": 120,
+        "precio_regular":89,
+        "created_at":"2022-03-14T16:51:07.214x",
+        "slug":"Parlante"
+    }
+]

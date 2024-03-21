@@ -59,6 +59,9 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
+            "options":{
+              "disableHostCheck": true
+            },
             "production": {
               "browserTarget": "TiendaEnLinea:build:production"
             },
